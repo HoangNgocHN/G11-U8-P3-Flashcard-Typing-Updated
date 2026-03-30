@@ -572,7 +572,7 @@ function streakXpHTML() {
 function fullRender() {
   document.getElementById('app').innerHTML = `
     <div class="header">
-      <div class="unit-tag">Unit 8 · Paragraph 6</div>
+      <div class="unit-tag">Unit 8 · Paragraph 3</div>
       <div class="title">Becoming Independent</div>
       <div class="subtitle">${S.deck.length} words · ${S.reviewMode ? "Review mode" : "Study mode"}</div>
     </div>
